@@ -1,0 +1,256 @@
+@media (max-width:768px) {
+    nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 14rem;
+    }
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .contact {
+        padding-top: 1rem;
+    }
+    .navbar2 {
+        padding-top: 2rem;
+    }
+    .container {
+        width: 100%;
+    }
+    .order-list {
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+    }
+    ul {
+        display: flex;
+        flex-direction: column;
+    }
+    .search {
+        height: auto;
+        width: 60%;
+    }
+    .p-mp {
+        font-size: 3rem;
+    }
+    .welcome-pro {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        margin: 1rem;
+    }
+    .welcome-section {
+        height: 63rem;
+    }
+    .banner-section {
+       height: auto;
+    }
+    .halmat {
+        top: 65%;
+    }
+    .choose-main {
+       display: flex;
+       flex-direction: column;
+    }
+    .choose-section {
+        height: auto;
+    }
+    .main-services {
+        display: flex;
+        flex-direction: column;
+    }
+    .services-section {
+        height: auto;
+        text-align: center;
+    }
+    .ser-p {
+        width: 56%;
+        margin: auto;
+    }
+    .ft-ph {
+        width: 53%;
+        margin: auto;
+    }
+    .ch-d {
+        width: 40%;
+        margin: auto;
+    }
+    .journey-place {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .journey-place2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 0rem 5rem;
+    }
+    .made-love-section {
+       height: auto;
+    }
+    .customer-section {
+        height: auto;
+    }
+    .ct-ph {
+        font-size: 1.5rem;
+    }
+    .left-side {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    [type="email"] {
+        margin: 1rem 0rem;
+    }
+    .customer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .ct-dn {
+        font-size: 1.8rem; 
+    }
+    .customer-section {
+        height: 75rem;
+    }
+    .form {
+        padding-left: 10%;
+    }
+    [type="mesage"] {
+        height: auto;
+    }
+    .cdn-color {
+        height: auto;
+    }
+    .sb-btn {
+        margin-left: 0rem;
+        margin-top: 1rem;
+    }
+    .contact-form {
+        height: 28rem;
+    }
+    .halmat  {
+        height: 25rem;
+        padding-bottom: 5rem;
+    }
+    .halmat2 {
+        height: 15rem;
+    }
+    .main-area {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logoo {
+        height: auto;
+    }
+    .about-content {
+        width: 100%;
+    }
+    .footer-icon {
+        justify-content: center;
+    }
+    .made-img {
+        text-align: center;
+    }
+    .row {
+       height: auto;
+    }
+    .welcome {
+        text-align: center;
+    }
+    .wd-p {
+        width: 80%;
+        margin: auto;
+    }
+    .wd-p2 {
+        width: 80%;
+        margin: auto;
+    }
+    .ch-p {
+        width: 80%;
+        margin: auto;
+    }
+}
+
+@media (max-width:1200px)  {
+     html {
+        font-size: 75%; 
+    }
+    .welcome-section {
+        height: 35rem;
+        padding-bottom: 5rem;
+    }
+    .our-img {
+        width: 100%;
+    }
+    .services-section {
+        height: auto;
+    }
+    .made-love-section {
+        height: auto;
+    }
+    .md-img {
+        width: 100%;
+    }
+    .ml-img {
+        width: 100%;
+    }
+    .ld-img {
+        width: 100%;
+    }
+    .customer-section {
+        height: auto;
+    }
+    .contact-form {
+        height: 24rem;
+    }
+    .footer-section {
+       height: auto;
+    }
+}
+@media (max-width:992px)  {
+    html {
+        font-size: 55%;
+    }
+    .welcome-section {
+        height: auto;
+    }
+    .choose-section {
+        height: auto;
+    }
+    .services-section {
+        height: auto;
+    }
+    .journey-place {
+       display: flex;
+       flex-direction: column;
+    }
+    .journey-img {
+      
+        text-align: center;
+    }
+    .ml-img {
+        width: auto;
+    }
+    .d-img {
+        width: 3rem;
+    }
+    .p-mp {
+        font-size: 4rem; 
+    }
+}
+@media (max-width:360px)  {
+    .our-img {
+        width: 100%;
+    }
+}
